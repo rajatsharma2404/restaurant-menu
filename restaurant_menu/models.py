@@ -10,8 +10,8 @@ MEAL_TYPE = (
 )
 
 STATUS = (
-    ("1","Available"),
-    ("0","Unavailable")
+    (1,"Available"),
+    (0,"Unavailable")
 )
 
 # Create your models here.
